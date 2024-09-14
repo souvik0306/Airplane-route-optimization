@@ -4,6 +4,7 @@ Created on Tue May  1 08:29:18 2018
 
 @author: kemal
 """
+from tkinter import messagebox
 from ItineraryList import ItineraryList
 from AirportAtlas import AirportAtlas
 from tkinter import *

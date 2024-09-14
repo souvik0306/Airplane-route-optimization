@@ -1,16 +1,28 @@
-A319,jet,metric,Airbus,3750
-A320,jet,metric,Airbus,12000
-A321,jet,metric,Airbus,12000
-A330,jet,metric,Airbus,13430
-737,jet,imperial,Boeing,5600
-747,jet,imperial,Boeing,9800
-757,jet,imperial,Boeing,7222
-767,jet,imperial,Boeing,7130
-777,jet,imperial,Boeing,9700
-BAE146,turboprop,metric,BAE,2909
-DC8,jet,imperial,Douglas,4800
-F50,turboprop,metric,Fokker,2055
-MD11,jet,imperial,McDonallDouglas,12670
-A400M,turboprop,metric,Airbus,3298
-C212,turboprop,metric,Airbus,1811
-V22,turboprop,imperial,Boeing ,1622
+Manufacturer,Aircraft,kg/hr
+Boeing,737-800,2530
+Boeing,747-400,10230
+Boeing,747-8,9600
+Boeing,757-200,3320
+Boeing,767-200,4500
+Boeing,767-300,4800
+Boeing,767-300ER,4940
+Boeing,777-200,6080
+Boeing,777-200ER,6630
+Boeing,777-200LR,6800
+Boeing,777-300ER,7500
+Boeing,787-8,4900
+Boeing,787-9,5600
+Airbus,A320,2430
+Airbus,A321-100,2885
+Airbus,A321-231,2740
+Airbus,A330-200,5590
+Airbus,A330-300,5700
+Airbus,A340-300,6500
+Airbus,A340-500,8000
+Airbus,A350-900,5800
+Airbus,A380,11000
+ATR,ATR 42,450
+ATR,ATR 72,620
+Bombardier,Bombardier Dash 8,900
+Antonov,?n-124,12600
+Antonov,?n-225,15900
